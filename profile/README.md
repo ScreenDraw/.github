@@ -17,6 +17,6 @@ this project depends on the Nodepp project: https://github.com/NodeppOficial/nod
 
 # Usage
 ```bash
-  🪟: `time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe`
-  🐧:   `time g++ -o main main.cpp -I ./include -lcrypto -lz -lX11 -lXtst ; ./main`
+  🪟: time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe
+  🐧: time g++ -o main main.cpp -I ./include -lcrypto -lz -lX11 -lXtst ; ./main
 ```
