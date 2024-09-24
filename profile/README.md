@@ -16,5 +16,7 @@ PCdraw is more than just a program; **it's a gateway to a world of boundless cre
 this project depends on the Nodepp project: https://github.com/NodeppOficial/nodepp
 
 # Usage
-- Windows: `time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe`
-- Linux:   `time g++ -o main main.cpp -I ./include -lcrypto -lz -lX11 -lXtst ; ./main`
+```bash
+  🪟: `time g++ -o main main.cpp -I ./include -lcrypto -lz -lws2_32 ; ./main.exe`
+  🐧:   `time g++ -o main main.cpp -I ./include -lcrypto -lz -lX11 -lXtst ; ./main`
+```
